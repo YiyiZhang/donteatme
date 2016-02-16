@@ -1,0 +1,268 @@
+fileFormatVersion: 2
+guid: a1c4afd580ff4e244a8f06011602467f
+timeCreated: 1455598149
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Robber_Run_0
+    21300002: Robber_Run_1
+    21300004: Robber_Run_2
+    21300006: Robber_Run_3
+    21300008: Robber_Run_4
+    21300010: Robber_Run_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Robber_Run_0
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 10
+        width: 185
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 52.5, y: -2.5}
+        - {x: 67.5, y: 0.5}
+        - {x: 88.5, y: -5.5}
+        - {x: 92.5, y: 5.5}
+        - {x: 92.5, y: 83.5}
+        - {x: 45.5, y: 101.5}
+        - {x: -34.5, y: 101.5}
+        - {x: -59.5, y: 85.5}
+        - {x: -72.5, y: 48.5}
+        - {x: -51.5, y: 40.5}
+        - {x: -92.5, y: -40.5}
+        - {x: -92.5, y: -77.5}
+        - {x: -9.5, y: -101.5}
+        - {x: 14.5, y: -101.5}
+        - {x: 27.5, y: -98.5}
+        - {x: 81.5, y: -7.5}
+        - {x: 72.5, y: -3.5}
+    - name: Robber_Run_1
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 2
+        width: 160
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 48, y: -18.5}
+        - {x: 48, y: -6.5}
+        - {x: 77, y: -2.5}
+        - {x: 80, y: 10.5}
+        - {x: 80, y: 80.5}
+        - {x: 21, y: 105.5}
+        - {x: -20, y: 105.5}
+        - {x: -63, y: 85.5}
+        - {x: -63, y: 61.5}
+        - {x: -57, y: 33.5}
+        - {x: -48, y: 36.5}
+        - {x: -58, y: 14.5}
+        - {x: -59, y: -33.5}
+        - {x: -63, y: -51.5}
+        - {x: -63, y: -103.5}
+        - {x: -58, y: -105.5}
+        - {x: -15, y: -105.5}
+        - {x: -10, y: -102.5}
+        - {x: -11, y: -94.5}
+        - {x: -15, y: -90.5}
+      - - {x: -80, y: -40.5}
+        - {x: -79, y: -41.5}
+        - {x: -77, y: -41.5}
+        - {x: -74, y: -38.5}
+        - {x: -75, y: -35.5}
+        - {x: -80, y: -35.5}
+      - - {x: -75, y: 66.5}
+        - {x: -75, y: 65.5}
+        - {x: -73, y: 63.5}
+        - {x: -72, y: 63.5}
+        - {x: -69, y: 66.5}
+        - {x: -69, y: 68.5}
+        - {x: -72, y: 69.5}
+      - - {x: -69, y: 78.5}
+        - {x: -66, y: 79.5}
+        - {x: -66, y: 82.5}
+        - {x: -69, y: 83.5}
+        - {x: -71, y: 81.5}
+      - - {x: -60, y: 81.5}
+        - {x: -57, y: 82.5}
+        - {x: -57, y: 85.5}
+        - {x: -60, y: 86.5}
+        - {x: -62, y: 84.5}
+    - name: Robber_Run_2
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 17
+        width: 174
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 98}
+        - {x: -76, y: 63}
+        - {x: -87, y: -18}
+        - {x: -87, y: -78}
+        - {x: -38, y: -98}
+        - {x: 44, y: -98}
+        - {x: 87, y: -18}
+        - {x: 87, y: 79}
+        - {x: 31, y: 98}
+      - - {x: 34, y: -32}
+        - {x: 37, y: -31}
+        - {x: 37, y: -28}
+        - {x: 34, y: -27}
+        - {x: 32, y: -29}
+      - - {x: 47, y: -23}
+        - {x: 49, y: -25}
+        - {x: 54, y: -23}
+        - {x: 54, y: -19}
+        - {x: 51, y: -16}
+        - {x: 48, y: -17}
+      - - {x: 39, y: -24}
+        - {x: 42, y: -23}
+        - {x: 42, y: -20}
+        - {x: 39, y: -19}
+        - {x: 37, y: -21}
+      - - {x: -62, y: 71}
+        - {x: -59, y: 72}
+        - {x: -59, y: 75}
+        - {x: -62, y: 76}
+        - {x: -64, y: 74}
+      - - {x: -53, y: 74}
+        - {x: -50, y: 75}
+        - {x: -50, y: 78}
+        - {x: -53, y: 79}
+        - {x: -55, y: 77}
+    - name: Robber_Run_3
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 5
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Robber_Run_4
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 2
+        width: 160
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 80, y: 105.5}
+        - {x: -39, y: 105.5}
+        - {x: -56, y: 91.5}
+        - {x: -70, y: 75.5}
+        - {x: -70, y: 54.5}
+        - {x: -68, y: 52.5}
+        - {x: -53, y: 49.5}
+        - {x: -58, y: 14.5}
+        - {x: -59, y: -33.5}
+        - {x: -70, y: -81.5}
+        - {x: -70, y: -101.5}
+        - {x: -58, y: -105.5}
+        - {x: -15, y: -105.5}
+        - {x: -10, y: -102.5}
+        - {x: 43, y: -68.5}
+        - {x: 80, y: -9.5}
+      - - {x: -80, y: -40.5}
+        - {x: -79, y: -41.5}
+        - {x: -77, y: -41.5}
+        - {x: -74, y: -38.5}
+        - {x: -75, y: -35.5}
+        - {x: -80, y: -35.5}
+      - - {x: -45, y: 53.5}
+        - {x: -42, y: 54.5}
+        - {x: -42, y: 57.5}
+        - {x: -45, y: 58.5}
+        - {x: -47, y: 56.5}
+      - - {x: -75, y: 66.5}
+        - {x: -75, y: 65.5}
+        - {x: -73, y: 63.5}
+        - {x: -72, y: 63.5}
+        - {x: -69, y: 66.5}
+        - {x: -69, y: 68.5}
+        - {x: -72, y: 69.5}
+      - - {x: -69, y: 78.5}
+        - {x: -66, y: 79.5}
+        - {x: -66, y: 82.5}
+        - {x: -69, y: 83.5}
+        - {x: -71, y: 81.5}
+      - - {x: -60, y: 81.5}
+        - {x: -57, y: 82.5}
+        - {x: -57, y: 85.5}
+        - {x: -60, y: 86.5}
+        - {x: -62, y: 84.5}
+    - name: Robber_Run_5
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 7
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

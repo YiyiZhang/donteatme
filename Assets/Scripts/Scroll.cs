@@ -18,7 +18,7 @@ public class Scroll : MonoBehaviour {
 
 		Vector2 offset = mat.mainTextureOffset;
 
-		offset.x += Time.deltaTime;
+		offset.x += Time.deltaTime * 0.08f;
 
 		mat.mainTextureOffset = offset;
 

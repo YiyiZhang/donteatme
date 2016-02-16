@@ -6,7 +6,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{E3EF6E53-88BE-20EB-65C7-C65330B49779}</ProjectGuid>
+    <ProjectGuid>{00EAF648-2996-84FF-500D-B9843AFF46E9}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -46,9 +46,9 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\BirdController.cs" />
-     <Compile Include="Assets\Scripts\HungryHippoController.cs" />
-     <Compile Include="Assets\Scripts\KirbyController.cs" />
-     <Compile Include="Assets\Scripts\ObstacleController.cs" />
+     <Compile Include="Assets\Scripts\Obstacle1Controller.cs" />
+     <Compile Include="Assets\Scripts\Obstacle2Controller.cs" />
+     <Compile Include="Assets\Scripts\Obstacle3Controller.cs" />
      <Compile Include="Assets\Scripts\ObstacleSpawner.cs" />
      <Compile Include="Assets\Scripts\Scroll.cs" />
  <Reference Include="UnityEngine.UI">

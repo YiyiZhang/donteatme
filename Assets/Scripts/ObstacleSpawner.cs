@@ -8,11 +8,14 @@ public class ObstacleSpawner : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		InvokeRepeating ("Spawn", 3f, 5f);
+			
+			InvokeRepeating ("Spawn", Random.Range (0.1f, 0.8f), Random.Range (3f, 5f));
 	}
-	
-	// Update is called once per frame
+
 	void Spawn () {
-		Instantiate (object2Spawn);
+		
+			Instantiate (object2Spawn);
+
 	}
+
 }
